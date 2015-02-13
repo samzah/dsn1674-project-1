@@ -32,7 +32,7 @@ h2 {
   font-family: 'Sigmar One', cursive;
   line-height: 1.5;
   padding: 1em 0em 0em 0em;
-  color: #F24405;
+  color: #b13153;
   border-top:5px solid #fee33f;
 }
 
@@ -43,7 +43,7 @@ h3 {
   font-family: 'Sigmar One', cursive;
   line-height: 1.5;
   padding: 0em 0em 0em 0em;
-  color: red;
+  color: #b13153;
 
 }
 
@@ -117,8 +117,8 @@ text-align: center;
 
 
 figure {
-  border: 2px solid red;
-  background-color: yellow;
+  border: 2px solid #b1a129;
+  background-color: #fffce1;
   border-radius: .4em;
   padding: 0.5em 0.5em 0.5em 0.5em;
 }
