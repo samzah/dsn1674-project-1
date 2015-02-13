@@ -54,7 +54,7 @@ nav a {
   text-decoration: none;
   border-radius: 4px;
   list-style-type: none;
-  background-color: #222;
+  background-color: #b1a129;
   text-align: center;
 }
 
@@ -104,11 +104,14 @@ blockquote{
   color: red;
   text-align: center;
   line-height: 1.75em;
+  color: #b1a129;
+  font-style: italic;
 }
 
 blockquote span{
   font-size: 3rem;
   font-family: 'Georgia', serif;
+  display: block;
 }
 
 blockquote div{
