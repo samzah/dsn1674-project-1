@@ -130,7 +130,8 @@ figure {
 figcaption {
   font-size: .8rem;
   font-style: italic;
-  color: red;
+  color: black;
+  text-align: center;
 }
 
 img {
@@ -144,15 +145,16 @@ dd {
   padding: 0em 0em 0em 0em;
 }
 
-dt, dd {
-	font-family: 'Georgia', serif;
-  color: #9A1700;
-  margin: .5em 0em 0em 0em;
-  font-style: bold;
+dl{
+  line-height: 2rem;
+}
+
+dt{
+  font-weight:bold;
 }
 
 footer{
-  background-color: yellow;
+  background-color: #fee33f;
   padding: 1em 2em 0.5em 2em;
   margin: 0;
   text-align: center;
