@@ -157,3 +157,8 @@ footer{
   margin: 0;
   text-align: center;
 }
+
+b, em{
+  font-weight:bold;
+  font-style:normal;
+}
